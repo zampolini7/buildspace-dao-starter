@@ -242,7 +242,7 @@ const App = () => {
             </table>
           </div>
           <div>
-            <h2>Active Proposals</h2>
+            <h2>Propuestas activas</h2>
             <form
               onSubmit={async (e) => {
                 e.preventDefault();
